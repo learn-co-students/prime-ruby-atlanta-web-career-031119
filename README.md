@@ -26,6 +26,6 @@ Think about the efficiency of your algorithm. How many iterations does it do? Lo
 
 ## Resources
 * [Basic Benchmarking in Ruby](http://rubylearning.com/blog/2013/06/19/how-do-i-benchmark-ruby-code/)
-* [Wikipedia](http://en.wikipedia.org/) - [Prime number](http://en.wikipedia.org/wiki/Prime_number)
+* [Wikipedia - Prime number](http://en.wikipedia.org/wiki/Prime_number)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/prime-ruby'>Prime? Lab</a> on Learn.co and start learning to code for free.</p>
