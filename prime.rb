@@ -11,7 +11,7 @@
 #   else number  1
 #    return false
 #   end
-# 
+#
 # end
 
 def prime?(number)
