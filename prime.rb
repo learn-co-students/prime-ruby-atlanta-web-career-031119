@@ -13,6 +13,7 @@
 #   end
 #
 # end
+require 'benchmark'
 
 def prime?(number)
   #if number is / by itself and one return is true
