@@ -18,7 +18,7 @@ require 'benchmark'
 def prime?(number)
   #if number is / by itself and one return is true
   # else spout false
-  if number < 1
+  if number <=1 
     return false
   elsif number % 1 == 0 && number % number == 0
     return true
